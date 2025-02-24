@@ -1,5 +1,5 @@
 """
-    2025.02.24 圖形化GUI介面操作
+    圖形化GUI介面操作
 """
 import tkinter
 import scam_line

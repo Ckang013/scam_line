@@ -17,6 +17,6 @@
 
 #### 實際查詢
 
-![螢幕擷取畫面 2025-02-24 165250](https://github.com/user-attachments/assets/2410c3a5-7185-4353-a3d0-7e75c3ef5521)
+![螢幕擷取畫面 2025-02-24 171250](https://github.com/user-attachments/assets/a84606fb-1a5e-42a0-b4d2-ef836aaa7c40)
 
-![螢幕擷取畫面 2025-02-24 165350](https://github.com/user-attachments/assets/5c850023-5caa-4c56-9356-91b1cacf7767)
+![螢幕擷取畫面 2025-02-24 171311](https://github.com/user-attachments/assets/37dd41a2-e421-43b1-bb30-b03f467db290)

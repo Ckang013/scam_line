@@ -1,6 +1,5 @@
 """
-    2025.02.24 反詐騙資料- 詐騙line id
-    原本在 google colab執行，但會出現timeout error，詢問 chatgpt 告知有可能此端點有阻隔雲端平台的存取
+    反詐騙資料- 詐騙line id
 """
 
 import requests

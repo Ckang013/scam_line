@@ -1,7 +1,12 @@
 # 詐騙LineID查詢
-透過爬蟲爬取政府開放資料平台的詐騙LineID的API資料，再結合tkinter實作的GUI介面做查詢
+透過爬蟲爬取政府開放資料平台的詐騙LineID的API資料，再結合tkinter實作的GUI介面做查詢，以應對很常看到的假投資詐騙訊息
 
 ![螢幕擷取畫面 2025-02-24 164349](https://github.com/user-attachments/assets/2216b36e-a898-418d-add0-106503a53fab)
+
+#### 假投資詐騙訊息
+
+![a20bb986d0c7623d87bf4a631310a835](https://github.com/user-attachments/assets/cac64133-b684-48b1-b730-0e96bd3d96f6)
+
 
 #### API提供的資料如下
 

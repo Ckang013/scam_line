@@ -21,15 +21,18 @@ def show():
     for line in lines:
         if a.get() == line:
             b.set("此帳號為詐騙id")
+            result.config(fg='red')
             return
     b.set("此帳號為一般id")
+    result.config(fg='green')
 
 query_txt = '---'
 b = tkinter.StringVar()
 b.set(query_txt)
 mylabel = tkinter.Label(window, text='詐騙Line ID 查詢', font=('Arial',20,'bold')).pack()  # 建立 label 標籤，加入文字，並用pack加入視窗中
-mytxt = tkinter.Label(window, textvariable=a, font=('Arial',15)).pack()
-tkinter.Label(window, textvariable=b, font=('Arial',15)).pack()
+lineid = tkinter.Label(window, textvariable=a, font=('Arial',15)).pack()
+result = tkinter.Label(window, textvariable=b, font=('Arial',15))   # 這裡如果一起執行pack，進到show時呼叫result會出現Nonetype error
+result.pack()
 
 ## 輸入框
 entry_txt = tkinter.StringVar()
